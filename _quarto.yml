@@ -8,10 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: project.qmd
-        text: My Project
-      - href: hobbies.qmd
-        text: Hobbies
+      - href: FYP Project.qmd
+        text: FYP Project
       - href: reflection.qmd
         text: Reflection
 

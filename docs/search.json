@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to Divaprk’s Tech Universe 🚀",
+    "title": "Welcome",
     "section": "",
-    "text": "Hey there! I’m Divaprk, a tech enthusiast and student at the Singapore Institute of Technology (SIT), diving deep into Data Engineering and Visualization. I’m passionate about AI, futuristic innovation, and creative projects that blend technology with storytelling. This website is my space to share my journey, projects, and ideas with the world!\n\n\nI am inspired by the possibilities of technology. I love exploring how tech can shape the future. I’m also a huge fan of Tesla’s vision—imagine a world with robotaxis zipping through neon-lit cityscapes!\nThe Singapore Institute of Technology (SIT) is where I’m honing my skills in data engineering. I’m currently working on projects that combine data visualization with interactive design, aiming to make complex information beautiful and accessible.\n\n\n\nI’m fascinated by the intersection of AI and innovation. Here are a few things that inspire me:\n\nAI-Powered Creativity: I’ve designed an AI-themed shirt with a stylized brain and circuit patterns, featuring the tagline “Think Beyond”. It’s a nod to how AI can push boundaries in art and design.\nTesla’s Futuristic Vision: I dream of a world where Tesla robotaxis dominate the streets. Check out this concept video of a robotaxi in a futuristic city:\n\n\n\n\n\nOne of my favorite projects at SIT was creating an interactive dashboard for urban data trends. I used Quarto, R, and D3.js to visualize traffic patterns in a futuristic cityscape. Here’s a screenshot:\n\n\n\n\nUrban Data Dashboard\n\n\nThis project taught me how to handle big data and present it in a way that’s both functional and visually stunning.\n\n\n\n\nI’m always exploring new ideas, from building apparel websites with full e-commerce functionality to creating accessible, responsive designs (like my recent work on cart and product pages). Stick around to see more of my projects, hobbies, and reflections on using tools like GenAI to bring my ideas to life!\nLet’s connect—check out my other pages or reach out via X to chat about tech, AI, or the future! ✨"
+    "text": "I’m Diva, a tech enthusiast and student at the Singapore Institute of Technology (SIT), diving deep into Data Engineering and Visualization. I’m passionate about AI, futuristic innovation, and creative projects that blend technology with storytelling.\n\n\nI am inspired by the possibilities of technology. I love exploring how tech can shape the future.\nThe Singapore Institute of Technology (SIT) is where I’m honing my skills in data engineering. I’m currently working on projects that combine data visualization with interactive design, aiming to make complex information beautiful and accessible.\n\n\n\nI’m fascinated by the intersection of AI and innovation. Here is something that inspires me:\n\nTesla’s Futuristic Vision: I dream of a world where Tesla robotaxis dominate the streets. Check out this concept video of a robotaxi in a futuristic city:"
   },
   {
     "objectID": "about.html",
@@ -16,28 +16,28 @@
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Welcome to Divaprk’s Tech Universe 🚀",
+    "title": "Welcome",
     "section": "",
-    "text": "I am inspired by the possibilities of technology. I love exploring how tech can shape the future. I’m also a huge fan of Tesla’s vision—imagine a world with robotaxis zipping through neon-lit cityscapes!\nThe Singapore Institute of Technology (SIT) is where I’m honing my skills in data engineering. I’m currently working on projects that combine data visualization with interactive design, aiming to make complex information beautiful and accessible."
+    "text": "I am inspired by the possibilities of technology. I love exploring how tech can shape the future.\nThe Singapore Institute of Technology (SIT) is where I’m honing my skills in data engineering. I’m currently working on projects that combine data visualization with interactive design, aiming to make complex information beautiful and accessible."
   },
   {
     "objectID": "index.html#my-tech-obsessions",
     "href": "index.html#my-tech-obsessions",
-    "title": "Welcome to Divaprk’s Tech Universe 🚀",
+    "title": "Welcome",
     "section": "",
-    "text": "I’m fascinated by the intersection of AI and innovation. Here are a few things that inspire me:\n\nAI-Powered Creativity: I’ve designed an AI-themed shirt with a stylized brain and circuit patterns, featuring the tagline “Think Beyond”. It’s a nod to how AI can push boundaries in art and design.\nTesla’s Futuristic Vision: I dream of a world where Tesla robotaxis dominate the streets. Check out this concept video of a robotaxi in a futuristic city:"
+    "text": "I’m fascinated by the intersection of AI and innovation. Here is something that inspires me:\n\nTesla’s Futuristic Vision: I dream of a world where Tesla robotaxis dominate the streets. Check out this concept video of a robotaxi in a futuristic city:"
   },
   {
     "objectID": "index.html#featured-project-visualizing-the-future",
     "href": "index.html#featured-project-visualizing-the-future",
-    "title": "Welcome to Divaprk’s Tech Universe 🚀",
+    "title": "Welcome",
     "section": "",
     "text": "One of my favorite projects at SIT was creating an interactive dashboard for urban data trends. I used Quarto, R, and D3.js to visualize traffic patterns in a futuristic cityscape. Here’s a screenshot:\n\n\n\n\nUrban Data Dashboard\n\n\nThis project taught me how to handle big data and present it in a way that’s both functional and visually stunning."
   },
   {
     "objectID": "index.html#whats-next",
     "href": "index.html#whats-next",
-    "title": "Welcome to Divaprk’s Tech Universe 🚀",
+    "title": "Welcome",
     "section": "",
     "text": "I’m always exploring new ideas, from building apparel websites with full e-commerce functionality to creating accessible, responsive designs (like my recent work on cart and product pages). Stick around to see more of my projects, hobbies, and reflections on using tools like GenAI to bring my ideas to life!\nLet’s connect—check out my other pages or reach out via X to chat about tech, AI, or the future! ✨"
   },
@@ -47,5 +47,54 @@
     "title": "FYP Project",
     "section": "",
     "text": "I was deployed to a local choolate retail company, where I worked with an employee who worked on creating sales orders and invoices.\nMy job was to automate the whole process of creating sales orders and invoices, which was done manually by the employee. I used UIPath to automate the process of creating sales orders and invoices.\nIt was diffucult but it worked in the end."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Reflection on the Use of GenAI\nI used GenAI to essentially walk me through the exercise. ALthough the exercise steps and inctructions were generally clear, there were some parts where I encountered issues.\nThis is when I turned to my AI of choice, Grok.\nI had an issue with setting up github for this exercise, which I asked Grok to help me with. And it was able to guide me throught what was wrong and helped me fix the issue so i could move on to the next step.\nI also asked it to help me with my website a little bit"
+  },
+  {
+    "objectID": "reflection.html#genai-tool-i-used",
+    "href": "reflection.html#genai-tool-i-used",
+    "title": "Reflection on using GenAI",
+    "section": "",
+    "text": "I used Grok, an AI assistant created by xAI, to assist me throughout this lab exercise. I chose Grok because it’s designed to provide clear, actionable guidance for technical tasks like coding, debugging, and website development. As someone passionate about AI and futuristic technologies—like Tesla robotaxis and smart cities—I was drawn to Grok, knowing it was built by xAI, a company advancing AI innovation. Plus, Grok’s ability to assist without involving real-time communication with others ensured I stayed within the academic integrity guidelines of this assessment."
+  },
+  {
+    "objectID": "reflection.html#how-grok-helped-me",
+    "href": "reflection.html#how-grok-helped-me",
+    "title": "Reflection on using GenAI",
+    "section": "",
+    "text": "Grok was a lifesaver during this assessment, guiding me through each step of building my Quarto website and troubleshooting issues as they arose. Here are some specific ways it helped:\n\nSetting Up the Quarto Project: Early on, I struggled with the _quarto.yml file—it wasn’t in my project directory after cloning my Git repository. At around 1:38 PM on May 15, 2025, I shared a screenshot of my Files tab with Grok, and it quickly identified that I had likely missed copying _quarto.yml from the temporary project in Section 2.3. Grok suggested recreating the temporary Quarto project, copying the file, and updating it to set the output directory to docs. This fixed the issue and got my website rendering properly.\nCreating an Elaborate Homepage: I wanted my homepage to reflect my love for tech, AI, and futuristic themes like Tesla robotaxis. Grok helped me craft a creative index.qmd with a futuristic cyborg theme, neon styling, and content that showcased my interests—like my AI-themed apparel designs and urban data visualization projects. It even suggested adding a video of a Tesla robotaxi concept, which made my homepage more engaging. Here’s a screenshot of the result:\n\n\n\n\nMy Futuristic Homepage\n\n\n\nRenaming and Adding Pages: When I needed to rename about.qmd to project.qmd, Grok provided step-by-step instructions to update _quarto.yml and ensure my navbar reflected the change. It also helped me create and add the reflection.qmd file when I realized the Reflection tab wasn’t linked to an actual file. Grok’s guidance ensured I met the requirement of having at least four pages (homepage, project, hobbies, and reflection).\nStyling and Formatting: Grok suggested CSS rules for styles.css to give my website a futuristic look, like the .highlight-box class used above. It also helped me apply Markdown formatting—like lists, floated images, and embedded videos—to make my pages visually appealing and meet the rubric’s criteria for rich content."
+  },
+  {
+    "objectID": "reflection.html#benefits-of-using-genai",
+    "href": "reflection.html#benefits-of-using-genai",
+    "title": "Reflection on using GenAI",
+    "section": "",
+    "text": "Using Grok during this assessment brought several benefits that made the process smoother and more rewarding:\n\nEfficiency Under Pressure: With only two hours to complete the assessment, Grok’s step-by-step guidance helped me stay focused and avoid getting stuck. For example, fixing the _quarto.yml issue would have taken me much longer without Grok’s quick troubleshooting.\nEnhanced Creativity: Grok’s suggestions for my homepage—like the neon styling and tech-focused content—elevated my website beyond a basic setup. It turned a functional site into a personal showcase of my passion for AI and futuristic innovation.\nLearning Through Guidance: Grok didn’t just give me answers; it explained each step, helping me understand Quarto configuration, Git workflows, and Markdown formatting better. I now feel more confident using these tools for future projects."
+  },
+  {
+    "objectID": "reflection.html#challenges-of-using-genai",
+    "href": "reflection.html#challenges-of-using-genai",
+    "title": "Reflection on using GenAI",
+    "section": "",
+    "text": "While Grok was incredibly helpful, I encountered a few challenges that taught me how to use GenAI more effectively:\n\nNeed for Specific Questions: I learned that I had to be precise with my requests. When I first asked about the missing _quarto.yml file, I didn’t provide enough context, so Grok’s initial response was a bit general. Once I shared my screenshot, it pinpointed the issue immediately. This taught me to provide detailed information when seeking help.\nBalancing Reliance and Independence: At times, I worried I might lean too heavily on Grok instead of solving problems myself. To address this, I made sure to understand each step—like how _quarto.yml configures the navbar—so I could apply the knowledge independently in the future."
+  },
+  {
+    "objectID": "reflection.html#future-use-of-genai",
+    "href": "reflection.html#future-use-of-genai",
+    "title": "Reflection on using GenAI",
+    "section": "",
+    "text": "This experience has shown me how powerful GenAI tools like Grok can be for my studies and career. As a Data Engineering student at SIT, I’ll face more complex projects involving coding, data visualization, and website development. Grok can help me in several ways:\n\nDebugging and Learning: I can use Grok to debug code, learn new tools (like advanced Quarto features or D3.js for visualizations), and understand complex concepts in data engineering.\nCreative Projects: Grok’s ability to brainstorm ideas—like the futuristic homepage design—will be invaluable for projects where I need to think outside the box, such as designing more AI-themed apparel or building interactive dashboards for smart cities.\nEfficiency in Professional Work: In a future career, where deadlines are tight, Grok can help me work faster and smarter, whether I’m developing websites, analyzing data, or creating presentations."
+  },
+  {
+    "objectID": "reflection.html#final-thoughts",
+    "href": "reflection.html#final-thoughts",
+    "title": "Reflection on using GenAI",
+    "section": "",
+    "text": "Using Grok for this assessment was a transformative experience. It not only helped me meet the lab’s requirements—building a Quarto website with four pages, rich content, and proper styling—but also inspired me to think bigger about how AI can enhance my work. I’m proud of the website I created, especially the homepage, which truly reflects my passion for tech, AI, and futuristic innovation. Grok felt like a mentor, guiding me through challenges and helping me grow as a student and creator.\n\n“GenAI isn’t just a tool—it’s a partner in creativity and learning. Grok helped me turn a daunting task into a rewarding journey.” — Divaprk, May 2025\n\nI’m excited to continue using GenAI responsibly in my studies, ensuring I balance its assistance with my own learning and growth. This assessment has shown me that with the right tools, I can achieve more than I thought possible in a short time!"
   }
 ]

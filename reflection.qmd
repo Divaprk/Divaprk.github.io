@@ -1,4 +1,10 @@
----
-title: "reflection"
-editor: visual
----
+# Reflection on the Use of GenAI
+
+I used GenAI to essentially walk me through the exercise. ALthough the exercise steps and inctructions were generally clear, there were some parts where I encountered issues.
+
+This is when I turned to my AI of choice, Grok.
+
+I had an issue with setting up github for this exercise, which I asked Grok to help me with. And it was able to guide me throught what was wrong and helped me fix the issue so i could move on to the next step.
+
+I also asked it to help me with my website a little bit
+

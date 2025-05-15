@@ -1,31 +1,64 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 16px;
-  background: linear-gradient(to bottom, #1a1a2e, #16213e);
-  color: #e0e0e0;
+  background-color: #f9fafb;
+  color: #1f2937;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
 
 h1, h2 {
-  font-family: 'Orbitron', sans-serif;
-  color: #00d4ff;
-  text-shadow: 0 0 5px #00d4ff, 0 0 10px #00d4ff;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  color: #1e3a8a;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.875rem;
+  margin-bottom: 0.75rem;
 }
 
 h3, h4 {
-  font-size: 14pt;
-  color: #ff4081;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  color: #4b5563;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 1rem;
 }
 
 p {
-  margin: 10px 0;
-  line-height: 1.5;
+  margin: 0 0 1rem 0;
+  color: #4b5563;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #1e3a8a;
+  text-decoration: underline;
 }
 
 .highlight-box {
-  background-color: #2a2a4e;
-  border: 2px solid #00d4ff;
-  border-radius: 10px;
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
   padding: 20px;
   margin: 20px 0;
-  box-shadow: 0 0 15px rgba(0, 212, 255, 0.5);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
