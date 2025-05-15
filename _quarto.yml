@@ -3,20 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Diva's Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: project.qmd
+        text: My Project
+      - href: hobbies.qmd
+        text: Hobbies
+      - href: reflection.qmd
+        text: Reflection
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cyborg
     css: styles.css
     toc: true
-
+    toc-depth: 3
+    toc-location: left
 
 

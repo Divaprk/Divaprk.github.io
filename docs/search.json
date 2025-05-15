@@ -2,8 +2,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome to Divaprk’s Tech Universe 🚀",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hey there! I’m Divaprk, a tech enthusiast and student at the Singapore Institute of Technology (SIT), diving deep into Data Engineering and Visualization. I’m passionate about AI, futuristic innovation, and creative projects that blend technology with storytelling. This website is my space to share my journey, projects, and ideas with the world!\n\n\nI am inspired by the possibilities of technology. I love exploring how tech can shape the future. I’m also a huge fan of Tesla’s vision—imagine a world with robotaxis zipping through neon-lit cityscapes!\nThe Singapore Institute of Technology (SIT) is where I’m honing my skills in data engineering. I’m currently working on projects that combine data visualization with interactive design, aiming to make complex information beautiful and accessible.\n\n\n\nI’m fascinated by the intersection of AI and innovation. Here are a few things that inspire me:\n\nAI-Powered Creativity: I’ve designed an AI-themed shirt with a stylized brain and circuit patterns, featuring the tagline “Think Beyond”. It’s a nod to how AI can push boundaries in art and design.\nTesla’s Futuristic Vision: I dream of a world where Tesla robotaxis dominate the streets. Check out this concept video of a robotaxi in a futuristic city:\n\n\n\n\n\nOne of my favorite projects at SIT was creating an interactive dashboard for urban data trends. I used Quarto, R, and D3.js to visualize traffic patterns in a futuristic cityscape. Here’s a screenshot:\n\n\n\n\nUrban Data Dashboard\n\n\nThis project taught me how to handle big data and present it in a way that’s both functional and visually stunning.\n\n\n\n\nI’m always exploring new ideas, from building apparel websites with full e-commerce functionality to creating accessible, responsive designs (like my recent work on cart and product pages). Stick around to see more of my projects, hobbies, and reflections on using tools like GenAI to bring my ideas to life!\nLet’s connect—check out my other pages or reach out via X to chat about tech, AI, or the future! ✨"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to Divaprk’s Tech Universe 🚀",
+    "section": "",
+    "text": "I am inspired by the possibilities of technology. I love exploring how tech can shape the future. I’m also a huge fan of Tesla’s vision—imagine a world with robotaxis zipping through neon-lit cityscapes!\nThe Singapore Institute of Technology (SIT) is where I’m honing my skills in data engineering. I’m currently working on projects that combine data visualization with interactive design, aiming to make complex information beautiful and accessible."
+  },
+  {
+    "objectID": "index.html#my-tech-obsessions",
+    "href": "index.html#my-tech-obsessions",
+    "title": "Welcome to Divaprk’s Tech Universe 🚀",
+    "section": "",
+    "text": "I’m fascinated by the intersection of AI and innovation. Here are a few things that inspire me:\n\nAI-Powered Creativity: I’ve designed an AI-themed shirt with a stylized brain and circuit patterns, featuring the tagline “Think Beyond”. It’s a nod to how AI can push boundaries in art and design.\nTesla’s Futuristic Vision: I dream of a world where Tesla robotaxis dominate the streets. Check out this concept video of a robotaxi in a futuristic city:"
+  },
+  {
+    "objectID": "index.html#featured-project-visualizing-the-future",
+    "href": "index.html#featured-project-visualizing-the-future",
+    "title": "Welcome to Divaprk’s Tech Universe 🚀",
+    "section": "",
+    "text": "One of my favorite projects at SIT was creating an interactive dashboard for urban data trends. I used Quarto, R, and D3.js to visualize traffic patterns in a futuristic cityscape. Here’s a screenshot:\n\n\n\n\nUrban Data Dashboard\n\n\nThis project taught me how to handle big data and present it in a way that’s both functional and visually stunning."
+  },
+  {
+    "objectID": "index.html#whats-next",
+    "href": "index.html#whats-next",
+    "title": "Welcome to Divaprk’s Tech Universe 🚀",
+    "section": "",
+    "text": "I’m always exploring new ideas, from building apparel websites with full e-commerce functionality to creating accessible, responsive designs (like my recent work on cart and product pages). Stick around to see more of my projects, hobbies, and reflections on using tools like GenAI to bring my ideas to life!\nLet’s connect—check out my other pages or reach out via X to chat about tech, AI, or the future! ✨"
+  },
+  {
+    "objectID": "FYP Project.html",
+    "href": "FYP Project.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "I was deployed to a local choolate retail company, where I worked with an employee who worked on creating sales orders and invoices.\nMy job was to automate the whole process of creating sales orders and invoices, which was done manually by the employee. I used UIPath to automate the process of creating sales orders and invoices.\nIt was diffucult but it worked in the end."
   }
 ]

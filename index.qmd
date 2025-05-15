@@ -1,11 +1,30 @@
----
-title: "temp_website"
----
+# Welcome to Divaprk's Tech Universe 🚀
 
-This is a Quarto website.
+Hey there! I'm Divaprk, a tech enthusiast and student at the **Singapore Institute of Technology (SIT)**, diving deep into *Data Engineering and Visualization*. I’m passionate about AI, futuristic innovation, and creative projects that blend technology with storytelling. This website is my space to share my journey, projects, and ideas with the world!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
+I am inspired by the possibilities of technology. I love exploring how tech can shape the future. I’m also a huge fan of Tesla’s vision—imagine a world with robotaxis zipping through neon-lit cityscapes!
 
-```{r}
-1 + 1
-```
+The Singapore Institute of Technology (SIT) is where I’m honing my skills in data engineering. I’m currently working on projects that combine data visualization with interactive design, aiming to make complex information beautiful and accessible.
+
+## My Tech Obsessions
+I’m fascinated by the intersection of AI and innovation. Here are a few things that inspire me:
+
+- **AI-Powered Creativity**: I’ve designed an AI-themed shirt with a stylized brain and circuit patterns, featuring the tagline *“Think Beyond”*. It’s a nod to how AI can push boundaries in art and design.
+- **Tesla’s Futuristic Vision**: I dream of a world where Tesla robotaxis dominate the streets. Check out this concept video of a robotaxi in a futuristic city:
+
+  {{< video https://www.youtube.com/watch?v=rphrFDf00mk width="600" height="400" >}}
+
+## Featured Project: Visualizing the Future
+One of my favorite projects at SIT was creating an interactive dashboard for urban data trends. I used Quarto, R, and D3.js to visualize traffic patterns in a futuristic cityscape. Here’s a screenshot:
+
+::: {.highlight-box}
+![Urban Data Dashboard](images/traffic_dashboard.png){width=80%}
+
+This project taught me how to handle big data and present it in a way that’s both functional and visually stunning.
+:::
+
+## What’s Next?
+I’m always exploring new ideas, from building apparel websites with full e-commerce functionality to creating accessible, responsive designs (like my recent work on cart and product pages). Stick around to see more of my projects, hobbies, and reflections on using tools like GenAI to bring my ideas to life!
+
+Let’s connect—check out my other pages or reach out via [X](https://x.com/divaprk) to chat about tech, AI, or the future! ✨

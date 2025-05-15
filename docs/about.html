@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Diva’s Website</title>
+<title>About – temp_website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -39,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2b3e328b71be8d25427581baeb23079b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-bb7160830725afa8abeda692f2b24947.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-1688d9e1630bd0bcb1ec498477fd8fb7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Diva’s Website</span>
+    <span class="navbar-title">temp_website</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -90,20 +125,12 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./project.qmd"> 
-<span class="menu-text">My Project</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./hobbies.qmd"> 
-<span class="menu-text">Hobbies</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./reflection.qmd"> 
-<span class="menu-text">Reflection</span></a>
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
+<span class="menu-text">About</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -116,68 +143,43 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#welcome-to-divaprks-tech-universe" id="toc-welcome-to-divaprks-tech-universe" class="nav-link active" data-scroll-target="#welcome-to-divaprks-tech-universe">Welcome to Divaprk’s Tech Universe 🚀</a>
-  <ul class="collapse">
-  <li><a href="#about-me" id="toc-about-me" class="nav-link" data-scroll-target="#about-me">About Me</a></li>
-  <li><a href="#my-tech-obsessions" id="toc-my-tech-obsessions" class="nav-link" data-scroll-target="#my-tech-obsessions">My Tech Obsessions</a></li>
-  <li><a href="#featured-project-visualizing-the-future" id="toc-featured-project-visualizing-the-future" class="nav-link" data-scroll-target="#featured-project-visualizing-the-future">Featured Project: Visualizing the Future</a></li>
-  <li><a href="#whats-next" id="toc-whats-next" class="nav-link" data-scroll-target="#whats-next">What’s Next?</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
 
-
-
-
-<section id="welcome-to-divaprks-tech-universe" class="level1">
-<h1>Welcome to Divaprk’s Tech Universe 🚀</h1>
-<p>Hey there! I’m Divaprk, a tech enthusiast and student at the <strong>Singapore Institute of Technology (SIT)</strong>, diving deep into <em>Data Engineering and Visualization</em>. I’m passionate about AI, futuristic innovation, and creative projects that blend technology with storytelling. This website is my space to share my journey, projects, and ideas with the world!</p>
-<section id="about-me" class="level2">
-<h2 class="anchored" data-anchor-id="about-me">About Me</h2>
-<p>I am inspired by the possibilities of technology. I love exploring how tech can shape the future. I’m also a huge fan of Tesla’s vision—imagine a world with robotaxis zipping through neon-lit cityscapes!</p>
-<p>The Singapore Institute of Technology (SIT) is where I’m honing my skills in data engineering. I’m currently working on projects that combine data visualization with interactive design, aiming to make complex information beautiful and accessible.</p>
-</section>
-<section id="my-tech-obsessions" class="level2">
-<h2 class="anchored" data-anchor-id="my-tech-obsessions">My Tech Obsessions</h2>
-<p>I’m fascinated by the intersection of AI and innovation. Here are a few things that inspire me:</p>
-<ul>
-<li><p><strong>AI-Powered Creativity</strong>: I’ve designed an AI-themed shirt with a stylized brain and circuit patterns, featuring the tagline <em>“Think Beyond”</em>. It’s a nod to how AI can push boundaries in art and design.</p></li>
-<li><p><strong>Tesla’s Futuristic Vision</strong>: I dream of a world where Tesla robotaxis dominate the streets. Check out this concept video of a robotaxi in a futuristic city:</p>
-<div class="quarto-video"><iframe data-external="1" src="https://www.youtube.com/embed/rphrFDf00mk" width="600" height="400" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></li>
-</ul>
-</section>
-<section id="featured-project-visualizing-the-future" class="level2">
-<h2 class="anchored" data-anchor-id="featured-project-visualizing-the-future">Featured Project: Visualizing the Future</h2>
-<p>One of my favorite projects at SIT was creating an interactive dashboard for urban data trends. I used Quarto, R, and D3.js to visualize traffic patterns in a futuristic cityscape. Here’s a screenshot:</p>
-<div class="highlight-box">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/traffic_dashboard.png" class="img-fluid figure-img" style="width:80.0%"></p>
-<figcaption>Urban Data Dashboard</figcaption>
-</figure>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">About</h1>
 </div>
-<p>This project taught me how to handle big data and present it in a way that’s both functional and visually stunning.</p>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>About this site</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
 </div>
-</section>
-<section id="whats-next" class="level2">
-<h2 class="anchored" data-anchor-id="whats-next">What’s Next?</h2>
-<p>I’m always exploring new ideas, from building apparel websites with full e-commerce functionality to creating accessible, responsive designs (like my recent work on cart and product pages). Stick around to see more of my projects, hobbies, and reflections on using tools like GenAI to bring my ideas to life!</p>
-<p>Let’s connect—check out my other pages or reach out via <a href="https://x.com/divaprk">X</a> to chat about tech, AI, or the future! ✨</p>
+</div>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

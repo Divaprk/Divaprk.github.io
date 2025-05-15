@@ -1,0 +1,9 @@
+---
+title: "FYP Project"
+---
+
+I was deployed to a local choolate retail company, where I worked with an employee who worked on creating sales orders and invoices.
+
+My job was to automate the whole process of creating sales orders and invoices, which was done manually by the employee. I used UIPath to automate the process of creating sales orders and invoices.
+
+It was diffucult but it worked in the end.

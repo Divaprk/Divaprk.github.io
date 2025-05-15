@@ -1,1 +1,31 @@
-/* css styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  background: linear-gradient(to bottom, #1a1a2e, #16213e);
+  color: #e0e0e0;
+}
+
+h1, h2 {
+  font-family: 'Orbitron', sans-serif;
+  color: #00d4ff;
+  text-shadow: 0 0 5px #00d4ff, 0 0 10px #00d4ff;
+}
+
+h3, h4 {
+  font-size: 14pt;
+  color: #ff4081;
+}
+
+p {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+.highlight-box {
+  background-color: #2a2a4e;
+  border: 2px solid #00d4ff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 0 15px rgba(0, 212, 255, 0.5);
+}
